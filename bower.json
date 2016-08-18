@@ -1,0 +1,17 @@
+{
+    "name": "modernantiqua-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Wojciech Kalinowski"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/modernantiqua-bower.git"
+    },
+    "description": "Modern Antiqua font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
